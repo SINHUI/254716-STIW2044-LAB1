@@ -10,17 +10,17 @@ as your references.
 
 ### First Run:
 
-![](https://github.com/SINHUI/254716-STIW2044-LAB-1/blob/master/interface/First%20Run.png)
+![](https://github.com/SINHUI/254716-STIW2044-LAB1/blob/master/interface/First%20Run.png)
 
 ### Input: 
 
-![](https://github.com/SINHUI/254716-STIW2044-LAB-1/blob/master/interface/Input1.png)
+![](https://github.com/SINHUI/254716-STIW2044-LAB1/blob/master/interface/Input1.png)
 
-![](https://github.com/SINHUI/254716-STIW2044-LAB-1/blob/master/interface/Input2.png)
+![](https://github.com/SINHUI/254716-STIW2044-LAB1/blob/master/interface/Input2.png)
 
 ### Output:
 
-![](https://github.com/SINHUI/254716-STIW2044-LAB-1/blob/master/interface/Output.png)
+![](https://github.com/SINHUI/254716-STIW2044-LAB1/blob/master/interface/Output.png)
 
 
 ## Getting Started
