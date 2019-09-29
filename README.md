@@ -1,9 +1,30 @@
 # bmr_lab1
 
-A new Flutter project.
+# Instruction:
+Develop a Basal Metabolic Rate (BMR) calculator using Flutter. Use:
+
+https://www.thecalculatorsite.com/health/bmr-calculator.php 
+
+as your references. 
+
+
+### First Run:
+
+![](https://github.com/SINHUI/254716-STIW2044-LAB-1/blob/master/interface/First%20Run.png)
+
+### Input: 
+
+![](https://github.com/SINHUI/254716-STIW2044-LAB-1/blob/master/interface/Input1.png)
+
+![](https://github.com/SINHUI/254716-STIW2044-LAB-1/blob/master/interface/Input2.png)
+
+### Output:
+
+![](https://github.com/SINHUI/254716-STIW2044-LAB-1/blob/master/interface/Output.png)
+
 
 ## Getting Started
-
+A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
